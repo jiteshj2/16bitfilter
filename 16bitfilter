@@ -1,0 +1,13 @@
+//writing out sub routines
+
+//get image
+//get the image to be transformed
+
+//change palette
+//downsample to 16bit colour spectrum
+
+//pixellate
+//pixel transfomration
+
+//send image
+//send image back to source
