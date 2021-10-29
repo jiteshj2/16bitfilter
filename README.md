@@ -6,4 +6,4 @@ Always liked 16 bit graphics and at that time we had high hopes for VR. AR is an
 
 29/10/21 Rename to "Sega Filter" (cancelled as copyright)
 
-Basic subroutine: downsample: static downsampling/pixellation of still images.
+Basic subroutine: downsample: static downsampling/pixellation of still images. Move to real time video processing.
