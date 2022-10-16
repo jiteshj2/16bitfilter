@@ -9,4 +9,4 @@ Always liked 16 bit graphics and at that time we had high hopes for VR. AR is an
 Basic subroutine: downsample: static downsampling/pixellation of still images. Move to real time video processing.
 
 
-adding jav and c++ files
+adding jav and c++ files ---> finish html ---> *.exe
